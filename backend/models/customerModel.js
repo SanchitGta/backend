@@ -1,0 +1,1 @@
+Defines customer schema and database interactions
