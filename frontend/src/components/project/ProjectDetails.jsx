@@ -1,0 +1,1 @@
+Displays detailed project information
