@@ -1,0 +1,1 @@
+Manages general notification logic
