@@ -1,0 +1,1 @@
+Dashboard showing customer information
