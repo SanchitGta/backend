@@ -1,0 +1,1 @@
+Defines project schema and database interactions
