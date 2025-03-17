@@ -1,0 +1,1 @@
+Defines user authentication schema
